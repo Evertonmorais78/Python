@@ -1,0 +1,3 @@
+mensagem = 'eu adoro comida caseira'
+
+print(mensagem.replace('caseira', 'feita em casa')) #o replace permite substituir substituir partes específicas de uma sequência de caracteres por outras.
